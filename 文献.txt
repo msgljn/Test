@@ -1,0 +1,7 @@
+（1）Progressive semisupervised learning of multiple classifiers （PSEMISEL）
+（2）Exploiting unlabeled data in ensemble methods （semi-supervised boosting methods）
+（3）Exploiting unlabeled data to enhance ensemble diversity（UDEED）
+（4）Robust semi-supervised learning through label aggregation（ROSSEL）（AAAI）
+
+图是概述A schematic overview of
+A step-by-step explanation of the method is given in Algorithm 1 
